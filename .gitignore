@@ -14,3 +14,6 @@
 # docker
 !Dockerfile
 !docker-compose.yml
+
+# md file
+!README.md
